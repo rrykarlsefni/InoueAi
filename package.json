@@ -1,0 +1,19 @@
+{
+  "name": "inoueAi",
+  "version": "1.0.0",
+  "description": "AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "orihime",
+    "inoue"
+  ],
+  "author": "rrykarlsefni",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
